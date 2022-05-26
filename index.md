@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Announcements page for xxxx Network"
 ---
 
-I'm glad you are here. I plan to talk about ...
+IThis page will be used to cover importantn announcements and staus realated to A and S Networks. 
