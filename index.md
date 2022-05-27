@@ -1,5 +1,5 @@
 ---
-title: "Announcements page for xxxx Network"
+title: "Announcements page for A+S Network"
 ---
 
-IThis page will be used to cover importantn announcements and staus realated to A and S Networks. 
+This page will be used to cover important announcements and staus realated to A and S Networks. 
