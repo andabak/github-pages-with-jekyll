@@ -12,6 +12,8 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+
 minima:
   date_format: %Y-%m-%d %H:%M"
+  
+theme: minima
